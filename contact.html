@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Contact | SEO Blog for Students</title>
+    <meta name="description" content="Get in touch with the SEO Blog project. Send a message using the contact form below.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+  </head>
+  <body>
+
+    <aside class="sidebar" id="sidebar" role="navigation" aria-label="Main navigation">
+      <div class="sidebar-header">
+        <div class="logo">SEO Blog<span>For Students</span></div>
+      </div>
+      <nav class="side-nav">
+        <a href="index.html"><span class="nav-icon">⌂</span> Home</a>
+        <a href="blog/index.html"><span class="nav-icon">✦</span> Blog</a>
+        <a href="about.html"><span class="nav-icon">◎</span> About</a>
+        <a href="contact.html"><span class="nav-icon">✉</span> Contact</a>
+      </nav>
+      <div class="sidebar-footer">
+        <button class="dark-toggle" id="dark-toggle" aria-label="Toggle dark mode">
+          <div class="toggle-track"><div class="toggle-thumb"></div></div>
+          Dark mode
+        </button>
+      </div>
+    </aside>
+
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <button class="menu-btn" id="menu-btn" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+
+    <div class="main-content">
+
+      <section class="hero">
+        <div class="container">
+          <span class="eyebrow">Get in Touch</span>
+          <h2>Contact</h2>
+          <p>Have a question or feedback? Send a message below.</p>
+        </div>
+      </section>
+
+      <section class="article">
+        <div class="container article-box">
+
+          <h2 data-aos="fade-up">Send a Message</h2>
+
+          <form id="contactForm" class="contact-form" data-aos="fade-up" novalidate>
+            <div class="form-group">
+              <label for="contact-name">Name</label>
+              <input type="text" id="contact-name" name="name" placeholder="Your name">
+              <span class="field-error" id="contact-name-error"></span>
+            </div>
+
+            <div class="form-group">
+              <label for="contact-email">Email</label>
+              <input type="email" id="contact-email" name="email" placeholder="your@email.com">
+              <span class="field-error" id="contact-email-error"></span>
+            </div>
+
+            <div class="form-group">
+              <label for="contact-message">Message</label>
+              <textarea id="contact-message" name="message" placeholder="Write your message here..."></textarea>
+              <span class="field-error" id="contact-message-error"></span>
+            </div>
+
+            <button type="submit" class="btn-primary">Send Message</button>
+          </form>
+
+          <div class="form-success" id="form-success">
+            ✓ Your message has been sent. Thank you!
+          </div>
+
+        </div>
+      </section>
+
+      <footer class="footer">
+        <p>© 2026 SEO Blog Project &mdash; <a href="about.html">About</a></p>
+      </footer>
+    </div>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

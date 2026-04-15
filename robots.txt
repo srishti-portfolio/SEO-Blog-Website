@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Add your sitemap URL here once you publish to GitHub Pages:
+# Sitemap: https://yourusername.github.io/your-repo-name/sitemap.xml
