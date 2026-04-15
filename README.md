@@ -35,6 +35,11 @@ This project demonstrates practical implementation of **basic frontend developme
 - CSS3  
 - JavaScript (Vanilla JS)  
 - AOS (Animate on Scroll)  
-- Typed.js  
+- Typed.js
+
+---
+
+## 🔗 Link 
+
 
 
