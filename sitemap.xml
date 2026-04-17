@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  Replace "https://yourusername.github.io/your-repo-name"
-  with your actual GitHub Pages URL after publishing.
--->
+
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://yourusername.github.io/your-repo-name/</loc><priority>1.0</priority></url>
-  <url><loc>https://yourusername.github.io/your-repo-name/blog/</loc><priority>0.9</priority></url>
-  <url><loc>https://yourusername.github.io/your-repo-name/blog/what-is-seo.html</loc><priority>0.8</priority></url>
-  <url><loc>https://yourusername.github.io/your-repo-name/blog/types-of-seo.html</loc><priority>0.8</priority></url>
-  <url><loc>https://yourusername.github.io/your-repo-name/blog/on-page-seo.html</loc><priority>0.8</priority></url>
-  <url><loc>https://yourusername.github.io/your-repo-name/blog/keyword-research.html</loc><priority>0.8</priority></url>
-  <url><loc>https://yourusername.github.io/your-repo-name/about.html</loc><priority>0.6</priority></url>
-  <url><loc>https://yourusername.github.io/your-repo-name/contact.html</loc><priority>0.6</priority></url>
+  <url><loc>https://srishti-portfolio.github.io/SEO-Blog-Website/</loc><priority>1.0</priority></url>
+  <url><loc>https://srishti-portfolio.github.io/SEO-Blog-Website/blog/</loc><priority>0.9</priority></url>
+  <url><loc>https://srishti-portfolio.github.io/SEO-Blog-Website/blog/what-is-seo.html</loc><priority>0.8</priority></url>
+  <url><loc>https://srishti-portfolio.github.io/SEO-Blog-Website/blog/types-of-seo.html</loc><priority>0.8</priority></url>
+  <url><loc>https://srishti-portfolio.github.io/SEO-Blog-Website/blog/on-page-seo.html</loc><priority>0.8</priority></url>
+  <url><loc>https://srishti-portfolio.github.io/SEO-Blog-Website/blog/keyword-research.html</loc><priority>0.8</priority></url>
+  <url><loc>https://srishti-portfolio.github.io/SEO-Blog-Website/about.html</loc><priority>0.6</priority></url>
+  <url><loc>https://srishti-portfolio.github.io/SEO-Blog-Website/contact.html</loc><priority>0.6</priority></url>
 </urlset>
