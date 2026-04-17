@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap: https://srishti-portfolio.github.io/SEO-Blog-Website/sitemap.xml
+Sitemap: https://srishti-portfolio.github.io/SEO-Blog-Website/sitemap.xml
